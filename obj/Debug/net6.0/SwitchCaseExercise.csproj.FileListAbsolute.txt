@@ -1,0 +1,15 @@
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\net6.0\SwitchCaseExercise.csproj.AssemblyReference.cache
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\net6.0\SwitchCaseExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\net6.0\SwitchCaseExercise.AssemblyInfoInputs.cache
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\net6.0\SwitchCaseExercise.AssemblyInfo.cs
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\net6.0\SwitchCaseExercise.csproj.CoreCompileInputs.cache
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\bin\Debug\net6.0\SwitchCaseExercise.exe
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\bin\Debug\net6.0\SwitchCaseExercise.deps.json
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\bin\Debug\net6.0\SwitchCaseExercise.runtimeconfig.json
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\bin\Debug\net6.0\SwitchCaseExercise.dll
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\bin\Debug\net6.0\SwitchCaseExercise.pdb
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\net6.0\SwitchCaseExercise.dll
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\net6.0\refint\SwitchCaseExercise.dll
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\net6.0\SwitchCaseExercise.pdb
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\net6.0\SwitchCaseExercise.genruntimeconfig.cache
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\net6.0\ref\SwitchCaseExercise.dll
